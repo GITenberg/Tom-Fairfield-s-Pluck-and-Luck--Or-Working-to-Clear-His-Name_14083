@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '2575'
     url: http://www.gutenberg.org/2009/agents/2575
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14083#Tom-Fairfield-s-Pluck-and-Luck--Or-Working-to-Clear-His-Name
 gutenberg_issued: '2004-11-18'
 gutenberg_type: Text
 identifiers:
